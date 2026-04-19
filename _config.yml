@@ -1,4 +1,6 @@
 title: Repositories I Worked On
 description: Here are a collection of projects I worked on
-theme: minima
-remote_theme: jekyll/minima
+theme: midnight
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
